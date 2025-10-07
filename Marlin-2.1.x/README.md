@@ -1,3 +1,5 @@
+PS C:\Users\chris\Desktop\Ender3_Marlin\Marlin-2.1.x> platformio run -e STM32G0B1RE_btt
+
 <p align="center"><img src="buildroot/share/pixmaps/logo/marlin-outrun-nf-500.png" height="250" alt="MarlinFirmware's logo" /></p>
 
 <h1 align="center">Marlin 3D Printer Firmware</h1>
